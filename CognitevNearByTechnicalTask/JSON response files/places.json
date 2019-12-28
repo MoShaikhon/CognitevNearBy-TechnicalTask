@@ -1,0 +1,242 @@
+
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5e033924e826ac001b01dc99"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "5e07556f9fcb92001c718465",
+        "name": "Amreya Army Station",
+        "location": {
+          "address": "Amreya , Alexandria",
+          "lat": 30.913989024903675,
+          "lng": 29.95821475982666,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 30.913989024903675,
+              "lng": 29.95821475982666
+            }
+          ],
+          "distance": 10372,
+          "cc": "EG",
+          "city": "Al ‘Āmirīyah",
+          "state": "Alexandria",
+          "country": "Egypt",
+          "formattedAddress": [
+            "Amreya , Alexandria",
+            "Al ‘Āmirīyah",
+            "Alexandria",
+            "Egypt"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4e52adeebd41615f56317744",
+            "name": "Military Base",
+            "pluralName": "Military Bases",
+            "shortName": "Military Base",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/militarybase_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1577269620",
+        "hasPerk": false
+      },
+      {
+        "id": "50b87559e4b0046dd7984584",
+        "name": "El Mazra3a El Sa3eda - 1",
+        "location": {
+          "lat": 31.03686714172363,
+          "lng": 29.96449661254883,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 31.03686714172363,
+              "lng": 29.96449661254883
+            }
+          ],
+          "distance": 5321,
+          "cc": "EG",
+          "country": "Egypt",
+          "formattedAddress": [
+            "Egypt"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d15b941735",
+            "name": "Farm",
+            "pluralName": "Farms",
+            "shortName": "Farm",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/farm_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1577269620",
+        "hasPerk": false
+      },
+      {
+        "id": "4fa65a6ae4b0d607b9bcf287",
+        "name": "Al Mansour",
+        "location": {
+          "lat": 30.9975418975366,
+          "lng": 29.90401830748984,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 30.9975418975366,
+              "lng": 29.90401830748984
+            }
+          ],
+          "distance": 9162,
+          "cc": "EG",
+          "country": "Egypt",
+          "formattedAddress": [
+            "Egypt"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4eb1c1623b7b52c0e1adc2ec",
+            "name": "Auto Dealership",
+            "pluralName": "Auto Dealerships",
+            "shortName": "Auto Dealer",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1577269620",
+        "hasPerk": false
+      },
+      {
+        "id": "4e761c01d1643f93b2383d3b",
+        "name": "The Coffee Bean & Tea Leaf",
+        "location": {
+          "lat": 31.033201282618403,
+          "lng": 29.971543815479954,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 31.033201282618403,
+              "lng": 29.971543815479954
+            }
+          ],
+          "distance": 4585,
+          "cc": "EG",
+          "country": "Egypt",
+          "formattedAddress": [
+            "Egypt"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1577269620",
+        "hasPerk": false
+      },
+      {
+        "id": "5607e548498e2a77df4e4210",
+        "name": "Abd Al Qader Barrier (مزلقان عبد القادر)",
+        "location": {
+          "address": "Zawyet ‘Abd el-Qader",
+          "lat": 31.05381634626297,
+          "lng": 29.892082214355465,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 31.05381634626297,
+              "lng": 29.892082214355465
+            }
+          ],
+          "distance": 11910,
+          "cc": "EG",
+          "city": "Zāwiyat ‘Abd al Qādir",
+          "state": "Alexandria",
+          "country": "Egypt",
+          "formattedAddress": [
+            "Zawyet ‘Abd el-Qader",
+            "Zāwiyat ‘Abd al Qādir",
+            "Alexandria",
+            "Egypt"
+          ]
+        },
+        "categories": [
+          {
+            "id": "52f2ab2ebcbc57f1066b8b4c",
+            "name": "Intersection",
+            "pluralName": "Intersections",
+            "shortName": "Intersection",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1577269620",
+        "hasPerk": false
+      },
+      {
+        "id": "52ad7e2c498efc2e257137a9",
+        "name": "sedi ghazy",
+        "location": {
+          "address": "سيدى غازى طريق كفر الدوار ابو المطامير",
+          "lat": 31.05831954872011,
+          "lng": 30.085533010740246,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 31.05831954872011,
+              "lng": 30.085533010740246
+            }
+          ],
+          "distance": 10426,
+          "cc": "EG",
+          "country": "Egypt",
+          "formattedAddress": [
+            "سيدى غازى طريق كفر الدوار ابو المطامير",
+            "Egypt"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d15b941735",
+            "name": "Farm",
+            "pluralName": "Farms",
+            "shortName": "Farm",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/farm_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "referralId": "v-1577269620",
+        "hasPerk": false
+      }
+    ],
+    "confident": false
+  }
+}
